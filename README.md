@@ -1,6 +1,6 @@
-# ivigreen
-
-This template should help get you started developing with Vue 3 in Vite.
+# Тестовое задание
+Задание на верстку 
+Сверстать страницу на Vue2/3, дизайн отзывчивый
 
 ## Recommended IDE Setup
 
