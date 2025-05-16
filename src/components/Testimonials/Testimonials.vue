@@ -87,6 +87,10 @@ const testimonials: Testimonial[] = [
   color: #FFFFFF;
   @media (min-width: 990px) {
     grid-column: 1 / 3;
+    font-size: 28px;
+    .sign {
+      font-size: 16px;
+    }
   }
 }
 .review {
