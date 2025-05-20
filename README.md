@@ -1,6 +1,7 @@
 # Тестовое задание
-Задание на верстку 
-Сверстать страницу на Vue2/3, дизайн отзывчивый
+Задание на верстку https://www.figma.com/design/HybZo2ANnitqUijyq4hrjO/Ivigreen.com---all-landings-?node-id=2725-18567&p=f&t=e8lAW6wu2ihaSYYU-0  
+
+Сверстать страницу(итоговый вариант) на Vue2/3, дизайн отзывчивый
 
 ## Recommended IDE Setup
 
