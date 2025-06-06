@@ -20,12 +20,12 @@
 <script setup lang="ts">
 import type { PropType } from 'vue';
 
-defineProps({
+const props = defineProps({
   variant: {
     type: String as PropType<'primary' | 'secondary' | 'outline' | 'text' | 'text-dark'>,
     default: 'primary',
     validator: (value: string) =>
-      ['primary', 'secondary', 'outline', 'text'].includes(value)
+      ['primary', 'secondary', 'outline', 'text', 'text-dark'].includes(value)
   },
   size: {
     type: String as PropType<'small' | 'medium' | 'large' | 'adaptive'>,
